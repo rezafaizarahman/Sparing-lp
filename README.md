@@ -1,6 +1,6 @@
-# Sparing-lp
+# Sparing-lp (WIP)
 
-Sparing Landing Page
+Sparing Landing Page. Live at [http://rezafaizarahman.github.io/sparing-lp](http://rezafaizarahman.github.io/sparing-lp)
 
 ## Getting started
 
@@ -28,5 +28,3 @@ Deploy to gh-pages :
 ``` bash
 $ git subtree push --prefix dist origin gh-pages
 ```
-
-# WIP
