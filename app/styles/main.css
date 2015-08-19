@@ -6,6 +6,7 @@ body {
   line-height: normal;
   color: #333;
 }
+
 .browsehappy {
   margin: .2em 0;
   padding: .2em 0;
@@ -61,10 +62,10 @@ body {
   padding: 50px 0px;
   background: url(../images/newsletter1.png) no-repeat center;
 }
-.newsletter {
+.newsletter, a{
   padding: 5px 10px 0px;
   text-align: center;
-  color: #fff;
+  color: #fff !important;
 }
 .button-newsletter {
   display: block;
